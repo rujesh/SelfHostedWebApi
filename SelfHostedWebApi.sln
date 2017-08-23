@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostedWebApi.Simple", "SelfHostedWebApi.Simple\SelfHostedWebApi.Simple.csproj", "{EF394DDF-C35E-491C-A2AB-10E0DACFD815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostedWebApi.Client", "SelfHostedWebApi.Client\SelfHostedWebApi.Client.csproj", "{52AB1A9C-F09E-4663-82EF-FFBA63C16EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostedWebApi.Owin", "SelfHostedWebApi.Owin\SelfHostedWebApi.Owin.csproj", "{6F97F5EC-31EF-4D5F-A353-C9DF5A491B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF394DDF-C35E-491C-A2AB-10E0DACFD815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF394DDF-C35E-491C-A2AB-10E0DACFD815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF394DDF-C35E-491C-A2AB-10E0DACFD815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF394DDF-C35E-491C-A2AB-10E0DACFD815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AB1A9C-F09E-4663-82EF-FFBA63C16EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AB1A9C-F09E-4663-82EF-FFBA63C16EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AB1A9C-F09E-4663-82EF-FFBA63C16EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AB1A9C-F09E-4663-82EF-FFBA63C16EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F97F5EC-31EF-4D5F-A353-C9DF5A491B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F97F5EC-31EF-4D5F-A353-C9DF5A491B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F97F5EC-31EF-4D5F-A353-C9DF5A491B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F97F5EC-31EF-4D5F-A353-C9DF5A491B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
